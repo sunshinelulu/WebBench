@@ -27,3 +27,5 @@ Webbench是一个在linux下使用的非常简单的网站压测工具。它使�
 |       |--trace                |使用 TRACE请求方法                 |
 |-?/-h  |--help                 |打印帮助信息                       |
 |-V     |--version              |显示版本号                         |
+
+this is my first try to read some tiny project.And i think this project is small enough for me to have a deeper understanding in learning C program language.
